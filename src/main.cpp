@@ -21,15 +21,18 @@ void setup() {
 
     // TODO 3:
     // Initialize Serial communication (9600 baud rate)
+    Serial.begin(9600);
 
     // TODO 4:
     // Print system initialization message
+    Serial.println("Force Measurement System Initialized");
 }
 
 void loop() {
 
     // TODO 5:
     // Read analog value from FSR
+
 
     // TODO 6:
     // Print raw ADC value
