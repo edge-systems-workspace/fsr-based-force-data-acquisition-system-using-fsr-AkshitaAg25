@@ -15,6 +15,7 @@
 
  // TODO 2:
  // Create variable to store sensor reading
+int value=0;
 
 void setup() {
 
