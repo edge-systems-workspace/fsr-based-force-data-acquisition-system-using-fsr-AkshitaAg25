@@ -1,9 +1,9 @@
 #include <Arduino.h>
 /**
- * @file main.ino
+ * @file main.cpp
  * @brief Embedded Force Measurement System using FSR
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author AkshitaAg25
+ * @date 2026-02-19
  *
  * @details
  * Reads analog force data from FSR sensor and
